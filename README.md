@@ -1,5 +1,3 @@
-# zif8-ml-optimization
-Experimental dataset and Python code for independently validating the machine learning analyses
 # Machine Learning-Driven Optimization of ZnO to ZIF-8 Membrane Conversion
 
 [![DOI](https://img.shields.io/badge/DOI-10.xxxx/xxxxx-blue)](https://doi.org/10.xxxx/xxxxx)
